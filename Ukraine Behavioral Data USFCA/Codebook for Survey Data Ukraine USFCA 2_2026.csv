@@ -1,0 +1,296 @@
+﻿variable,label,dtype
+ResponseID,ResponseID,object
+IPAddress,IPAddress,object
+StartDate,StartDate,object
+EndDate,EndDate,object
+Finished,Finished,object
+response_id,response_id,object
+assignment_id,assignment_id,object
+completion_code,completion_code,object
+Q_RecaptchaScore,Q_RecaptchaScore,object
+Q_RelevantIDDuplicate,Q_RelevantIDDuplicate,object
+Q_RelevantIDDuplicateScore,Q_RelevantIDDuplicateScore,object
+Q_RelevantIDFraudScore,Q_RelevantIDFraudScore,object
+manuallyIDduplicateIP,manuallyIDduplicateIP,object
+"Survey, Treatment, Prosocial","Survey, Treatment, Prosocial",object
+Q_TotalDuration,Q_TotalDuration,object
+StroopPractice1_Time,elapsed3,object
+StroopPractice1_Score,Score3,object
+StroopPractice2_Time,elapsed4,object
+StroopPractice2_Score,Score4,object
+StroopBaseline_Time,elapsed5,object
+StroopBaseline_Score,Score5,object
+StroopEmotional_Time,elapsed,object
+StroopEmotional_Score,Score,object
+StroopEmotionalCompetitive_Time,elapsed2,object
+StroopEmotionalCompetitive_Score,Score2,object
+StroopEmotionalChoice_Time,elapsed6,object
+StroopEmotionalChoice_Score,Score6,object
+"Surveys, Control, Prosocial","Surveys, Control, Prosocial",object
+StroopControl_Time,elapsed7,object
+StroopControl_Score,Score7,object
+StroopControlCompetitive_Time,elapsed8,object
+StroopControlCompetitive_Score,Score8,object
+StroopControlChoice_Time,elapsed9,object
+StroopControlChoice_Score,Score9,object
+"Treatment, Prosocial, Surveys","Treatment, Prosocial, Surveys",object
+"Control, Prosocial, Surveys","Control, Prosocial, Surveys",object
+"Prosocial, Treatment, Surveys","Prosocial, Treatment, Surveys",object
+"Prosocial, Control, Surveys","Prosocial, Control, Surveys",object
+completed,completed,object
+Anxiety Score,TScoreA,object
+Depression Score,TScoreD,object
+Anxiety Severity,ASeverity,object
+Depression Severity,DSeverity,object
+Intro,Hello! We are graduate students from University of San Francisco conducting research into the eco...,object
+Q3051_1_TEXT,Click to write the question text-Browser,object
+Q3051_2_TEXT,Click to write the question text-Version,object
+Q3051_3_TEXT,Click to write the question text-Operating System,object
+Q3051_4_TEXT,Click to write the question text-Screen Resolution,object
+Q3051_5_TEXT,Click to write the question text-Flash Version,object
+Q3051_6_TEXT,Click to write the question text-Java Support,object
+Q3051_7_TEXT,Click to write the question text-User Agent,object
+Informed Consent ,I HAVE READ THE ABOVE INFORMATION. ANY QUESTIONS I HAVE ASKED HAVE BEEN ANSWERED. I AGREE TO PART...,object
+Alone,You must take this survey alone and without assistance. I am taking this survey by myself and wit...,object
+No Repeat,You can only take this survey once. I have taken this survey before,object
+Ukrainian,You must be a Ukrainian adult living in Ukraine.  Are you a Ukrainian adult living in Ukraine?,object
+Age,How old are you?,object
+Gender,What is your gender?,object
+Birthplace,Where were you born?,object
+Birthplace_TEXT,Where were you born?,object
+Edu,What is your highest level of education?,object
+Current Living Oblas,Where do you currently live? (Oblast),object
+Current Living Cit/V,Where do you currently live? (Village/City),object
+Current Living Cit/V_TEXT,Where do you currently live? (Village/City),object
+Household Size,How many people live in your household?,object
+Household Members_1,How many people are living with you (select all that apply)-Spouse/Partner,object
+Household Members_2,How many people are living with you (select all that apply)-Own Mother,object
+Household Members_3,How many people are living with you (select all that apply)-Mother in law,object
+Household Members_4,How many people are living with you (select all that apply)-Own Father,object
+Household Members_5,How many people are living with you (select all that apply)-Father in law,object
+Household Members_6,How many people are living with you (select all that apply)-Own Siblings,object
+Household Members_7,How many people are living with you (select all that apply)-Siblings of Spouse/Partner,object
+Household Members_8,How many people are living with you (select all that apply)-Only Own Children,object
+Household Members_9,How many people are living with you (select all that apply)-Only Spouse's Children,object
+Household Members_10,How many people are living with you (select all that apply)-Our Joint Children,object
+Household Members_11,How many people are living with you (select all that apply)-I prefer not to answer,object
+Household Head_1,Who is the head of your household?-Spouse/Partner,object
+Household Head_2,Who is the head of your household?-Myself,object
+Household Head_3,Who is the head of your household?-Own Mother,object
+Household Head_4,Who is the head of your household?-Mother in law,object
+Household Head_5,Who is the head of your household?-Own Father,object
+Household Head_6,Who is the head of your household?-Father in law,object
+Household Head_7,Who is the head of your household?-Own Siblings,object
+Household Head_8,Who is the head of your household?-Siblings of Spouse/Partner,object
+Household Head_13,Who is the head of your household?-Only Own Children,object
+Household Head_10,Who is the head of your household?-Only Spouse's Children,object
+Household Head_11,Who is the head of your household?-Our Joint Children,object
+Household Head_12,Who is the head of your household?-I prefer not to answer,object
+Marital Status_1,What is your marital status now (circle all that apply)?-Single (never married),object
+Marital Status_2,What is your marital status now (circle all that apply)?-Single (divorced),object
+Marital Status_3,What is your marital status now (circle all that apply)?-Single widow/er (surviving spouse),object
+Marital Status_4,What is your marital status now (circle all that apply)?-Single (any reasons) with boyfriend/girlfriend,object
+Marital Status_5,"What is your marital status now (circle all that apply)?-Not formally married, but with boyfriend/girlfriend living in separate places",object
+Marital Status_6,"What is your marital status now (circle all that apply)?-Not formally married, but with boyfriend/girlfriend living together",object
+Marital Status_7,What is your marital status now (circle all that apply)?-Married living together,object
+Marital Status_8,"What is your marital status now (circle all that apply)?-Married living apart in separate places, same town",object
+Marital Status_9,"What is your marital status now (circle all that apply)?-Married living apart in separate places, different town",object
+Marital Status_10,What is your marital status now (circle all that apply)?-I prefer not to answer,object
+Bio Child Num,How many biological children do you have?,object
+Bio Child Age 1,How old is your first child?,object
+Bio Child Age 2,How old is your second child?,object
+Bio Child Age 3,How old is your third child?,object
+Bio Child Age 4,How old is your fourth child?,object
+Bio Child Age 5,How old is your fifth child?,object
+Bio Child Age 6,How old is your sixth child?,object
+Bio Child Age 7,How old is your seventh child?,object
+Nonbio Child Care,How many children besides your biological children do you take care of on a regular basis?,object
+Religion,What is your religion?,object
+Religion_TEXT,What is your religion?,object
+Ethnicity,What is your ethnicity?,object
+Ethnicity_TEXT,What is your ethnicity?,object
+Occupation,What is your primary occupation? (Select one),object
+Occupation_TEXT,What is your primary occupation? (Select one),object
+Income Consistency,Have you received consistent (every week or month) income over the past year?,object
+Receive Money,Do you receive money from anyone outside your household?,object
+Without Income,"In the past 3 months, how often have you or your immediate family gone without a cash income?",object
+Without Food,"In the past 3 months, how often have you or your family been not sure about being able to get eno...",object
+Without Electricity,"In the past 3 months, how often have you or your family not had electricity to cook and warm the...",object
+Save Money,Do you currently save money?,object
+Organizations,"Do you participate in or are you a member of any social, political, or religious organizations?",object
+Organizations Which_1,Which organizations do you belong to or participate in?-NGO,object
+Organizations Which_2,Which organizations do you belong to or participate in?-Religious group,object
+Organizations Which_3,Which organizations do you belong to or participate in?-Political party,object
+Organizations Which_4,Which organizations do you belong to or participate in?-Community committee,object
+Organizations Which_5,Which organizations do you belong to or participate in?-Cooperative,object
+Organizations Which_6,Which organizations do you belong to or participate in?-Social club,object
+Organizations Which_7,Which organizations do you belong to or participate in?-Sport club,object
+Organizations Which_8,Which organizations do you belong to or participate in?-Business or farmer association,object
+Organizations Which_9,Which organizations do you belong to or participate in?-Volunteer defense group,object
+Organizations Which_10,Which organizations do you belong to or participate in?-Official Military service,object
+Organizations Which_11,Which organizations do you belong to or participate in?-Other (specify),object
+Organizations Which_13,Which organizations do you belong to or participate in?-I prefer not to answer,object
+Organizations Which_11_TEXT,Which organizations do you belong to or participate in?-Other (specify),object
+Support Network_1,"For each of the following statements, select how you feel about the support you have right now. I...-I have good friends who support me",object
+Support Network_2,"For each of the following statements, select how you feel about the support you have right now. I...-My family is always there for me",object
+Support Network_3,"For each of the following statements, select how you feel about the support you have right now. I...-My spouse/partner helps me a lot",object
+Support Network_4,"For each of the following statements, select how you feel about the support you have right now. I...-There is conflict with my spouse/ partner",object
+Support Network_5,"For each of the following statements, select how you feel about the support you have right now. I...-I feel controlled by my spouse/partner",object
+Support and Love_1_1_TEXT, -Spouse/Partner-Do you feel supported and loved by this person?,object
+Support and Love_2_1_TEXT, -Own Mother-Do you feel supported and loved by this person?,object
+Support and Love_3_1_TEXT, -Own Father-Do you feel supported and loved by this person?,object
+Support and Love_4_1_TEXT, -Mother in Law-Do you feel supported and loved by this person?,object
+Support and Love_5_1_TEXT, -Father in Law-Do you feel supported and loved by this person?,object
+Support and Love_6_1_TEXT, -Own Siblings-Do you feel supported and loved by this person?,object
+Support and Love_7_1_TEXT, -Siblings In Law-Do you feel supported and loved by this person?,object
+Support and Love_8_1_TEXT, -Cousins-Do you feel supported and loved by this person?,object
+Support and Love_9_1_TEXT, -Neighbors-Do you feel supported and loved by this person?,object
+Support and Love_12_1_TEXT, -Friends-Do you feel supported and loved by this person?,object
+Talk To_1_2_TEXT, -Spouse/Partner-How often do you talk to this person?,object
+Talk To_2_2_TEXT, -Own Mother-How often do you talk to this person?,object
+Talk To_3_2_TEXT, -Own Father-How often do you talk to this person?,object
+Talk To_4_2_TEXT, -Mother in Law-How often do you talk to this person?,object
+Talk To_5_2_TEXT, -Father in Law-How often do you talk to this person?,object
+Talk To_6_2_TEXT, -Own Siblings-How often do you talk to this person?,object
+Talk To_7_2_TEXT, -Siblings In Law-How often do you talk to this person?,object
+Talk To_8_2_TEXT, -Cousins-How often do you talk to this person?,object
+Talk To_9_2_TEXT, -Neighbors-How often do you talk to this person?,object
+Talk To_10_2_TEXT, -Friends-How often do you talk to this person?,object
+Watch your child_1_3_TEXT," -Spouse/Partner-Does this person watch, or has this person watched your children for you?",object
+Watch your child_2_3_TEXT," -Own Mother-Does this person watch, or has this person watched your children for you?",object
+Watch your child_3_3_TEXT," -Own Father-Does this person watch, or has this person watched your children for you?",object
+Watch your child_4_3_TEXT," -Mother in Law-Does this person watch, or has this person watched your children for you?",object
+Watch your child_5_3_TEXT," -Father in Law-Does this person watch, or has this person watched your children for you?",object
+Watch your child_6_3_TEXT," -Own Siblings-Does this person watch, or has this person watched your children for you?",object
+Watch your child_7_3_TEXT," -Siblings In Law-Does this person watch, or has this person watched your children for you?",object
+Watch your child_8_3_TEXT," -Cousins-Does this person watch, or has this person watched your children for you?",object
+Watch your child_9_3_TEXT," -Neighbors-Does this person watch, or has this person watched your children for you?",object
+Watch your child_10_3_TEXT," -Friends-Does this person watch, or has this person watched your children for you?",object
+Take care you/child_1_4_TEXT, -Spouse/Partner-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_2_4_TEXT, -Own Mother-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_3_4_TEXT, -Own Father-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_4_4_TEXT, -Mother in Law-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_5_4_TEXT, -Father in Law-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_6_4_TEXT, -Own Siblings-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_7_4_TEXT, -Siblings In Law-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_8_4_TEXT, -Cousins-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_9_4_TEXT, -Neighbors-Does this person takes care of you or your children if you or they are sick?,object
+Take care you/child_10_4_TEXT, -Friends-Does this person takes care of you or your children if you or they are sick?,object
+Give you money_1_4_TEXT, -Spouse/Partner-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_2_4_TEXT, -Own Mother-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_3_4_TEXT, -Own Father-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_4_4_TEXT, -Mother in Law-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_5_4_TEXT, -Father in Law-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_6_4_TEXT, -Own Siblings-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_7_4_TEXT, -Siblings In Law-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_8_4_TEXT, -Cousins-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_9_4_TEXT, -Neighbors-Would NAME give/gave you money for you (or your children) in case of need?,object
+Give you money_10_4_TEXT, -Friends-Would NAME give/gave you money for you (or your children) in case of need?,object
+Stress Response_1,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-When I’m stressed, I talk to friends to let off steam",object
+Stress Response_2,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-My family is the most important thing to me in times of stress.,object
+Stress Response_3,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-Stressful situations make me cry.,object
+Stress Response_4,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-When I’m stressed, I get moody and grumpy.",object
+Stress Response_5,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-When I’m stressed, I shout or raise my voice.",object
+Stress Response_6,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-If someone causes me stress, I attempt to enlist the cooperation of others to help me against them.",object
+Stress Response_7,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-When under stress, I tend to seek female company and hugs from girlfriends helps to reduce my stress.",object
+Stress Response_8,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-I tackle stressful situations head on to get them out of the way.,object
+Stress Response_9,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-Stressful situations make me feel like giving up.,object
+Stress Response_10,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-In times of stress, I bottle things up and hold them inside and try to deal with them on my own.",object
+Stress Response_11,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-My religion helps me deal with my stress.,object
+Stress Response_12,"On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-When I’m stressed, I’m more likely to fight with others.",object
+Stress Response_13,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-Tending to others helps reduce my stress.,object
+Stress Response_14,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-I feel that I want to run away from stressful situations.,object
+Stress Response_15,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-I join social groups to reduce my vulnerability to stressful situations.,object
+Stress Response_16,On a scale from 1 (NEVER) to 5 (ALWAYS) how much do you agree or disagree with the following stat...-I feel that it is important to protect children from stressful situations.,object
+COHEN_1,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you been upset because of something that happened unexpectedly?",object
+COHEN_2,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt that you were unable to control the important things in your life?",object
+COHEN_3,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt nervous and “stressed”?",object
+COHEN_4,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt confident about your ability to handle your personal problems?",object
+COHEN_5,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt that things were going your way?",object
+COHEN_6,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you found that you could not cope with all the things that you had to do?",object
+COHEN_7,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you been able to control irritations in your life?",object
+COHEN_8,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt that you were on top of things?",object
+COHEN_9,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you been angered because of things that were outside of your control?",object
+COHEN_10,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",object
+Family Satisfied,"Overall, how satisfied you are with your family situation? On a scale from 1 being the least sati...",object
+Employment Satisfied,"Overall, how satisfied you are with your current employment situation? On a scale from 1 being th...",object
+Career Desired,"If you could change employment or career path, what kind of job would you like to do?",object
+Life Satisfied,"Overall, how satisfied you are with your life? On a scale from 1 being the least satisfied to 5 b...",object
+Life Improve,How much do you agree or disagree with the following statement: “I feel that my life will improve...,object
+Good Qualities,How much do you agree or disagree with the following statement: “I feel that I have a number of g...,object
+DASS21_1,Please read each statement and select how much the statement applied to you over the past week. T...-I found it hard to wind down,object
+DASS21_2,Please read each statement and select how much the statement applied to you over the past week. T...-I was aware of dryness of my mouth,object
+DASS21_3,Please read each statement and select how much the statement applied to you over the past week. T...-I couldn’t seem to experience any positive feeling at all,object
+DASS21_4,"Please read each statement and select how much the statement applied to you over the past week. T...-I experienced breathing difficulty (e.g. excessively rapid breathing, breathlessness in the absence of physical exertion)",object
+DASS21_5,Please read each statement and select how much the statement applied to you over the past week. T...-I found it difficult to work up the initiative to do things,object
+DASS21_6,Please read each statement and select how much the statement applied to you over the past week. T...-I tended to over-react to situations,object
+DASS21_7,Please read each statement and select how much the statement applied to you over the past week. T...-I experienced trembling (e.g. in the hands),object
+DASS21_8,Please read each statement and select how much the statement applied to you over the past week. T...-I felt that I was using a lot of nervous energy,object
+DASS21_9,Please read each statement and select how much the statement applied to you over the past week. T...-I was worried about situations in which I might panic and make a fool of myself,object
+DASS21_10,Please read each statement and select how much the statement applied to you over the past week. T...-I felt that I had nothing to look forward to,object
+DASS21_11,Please read each statement and select how much the statement applied to you over the past week. T...-I found myself getting agitated,object
+DASS21_12,Please read each statement and select how much the statement applied to you over the past week. T...-I found it difficult to relax,object
+DASS21_13,Please read each statement and select how much the statement applied to you over the past week. T...-I felt down-hearted and blue,object
+DASS21_14,Please read each statement and select how much the statement applied to you over the past week. T...-I was intolerant of anything that kept me from getting on with what I was doing,object
+DASS21_15,Please read each statement and select how much the statement applied to you over the past week. T...-I felt I was close to panic,object
+DASS21_16,Please read each statement and select how much the statement applied to you over the past week. T...-I was unable to become enthusiastic about anything,object
+DASS21_17,Please read each statement and select how much the statement applied to you over the past week. T...-I felt I wasn’t worth much as a person,object
+DASS21_18,Please read each statement and select how much the statement applied to you over the past week. T...-I felt that I was rather touchy,object
+DASS21_19,"Please read each statement and select how much the statement applied to you over the past week. T...-I was aware of the action of my heart in the absence of physical exertion (e.g. sense of heart rate increase, heart missing a beat)",object
+DASS21_20,Please read each statement and select how much the statement applied to you over the past week. T...-I felt scared without any good reason,object
+DASS21_21,Please read each statement and select how much the statement applied to you over the past week. T...-I felt that life was meaningless,object
+Know Seller,"When you go to the market, how important is it to buy from a seller that you know personally?",object
+Trust People,"Generally speaking, would you say that most people can be trusted, or that you can't be too caref...",object
+Trust Family,"How much do you trust your family? 1= completely, 2=somewhat, 3=not very much, 4=not at all",object
+Trust Neighbors,"How much do you trust people in your village/city? 1= completely, 2=somewhat, 3=not very much, 4=...",object
+Trust Other Ethnic,"How much do you trust people of another ethnic group? 1= completely, 2=somewhat, 3=not very much,...",object
+Patient,"Overall, how patient would you describe yourself as? Please tick a box on the scale, where the va...",object
+Paid Wait,Imagine you have won a sum of money. How would you like to be paid?,object
+Paid Wait How Much,How much additional Hryvnia is worth waiting 6 months for instead of taking 500 Hryvnia now?,object
+Risk,How do you see yourself: are you generally a person who is fully prepared to take risks or do you...,object
+Place War Start,Place of stay when the conflict in February 2022 started:,object
+Place War Start_TEXT,Place of stay when the conflict in February 2022 started:,object
+Leave Home_1, -Did you or your family have to leave home because of the conflict?,object
+Leave Home_3, -Did the family return back home (only those who left)?,object
+Leave Home How Long,How long did the family stay out of home (only those who left)?,object
+Leave Home How Long_TEXT,How long did the family stay out of home (only those who left)?,object
+War Witness A_1, -Did you hear the fighting?,object
+War Witness A_3, -Did you see the fighting?,object
+War Witness A_4, -Did you see or hear an injured person?,object
+War Witness B_4, -Was any of your closest family injured?,object
+War Witness B_5, -Was any of your closest family killed?,object
+War Witness B_6, -Was any of your other relatives injured?,object
+War Witness B_7, -Was any of your other relatives killed?,object
+War Witness B_13, -Was any friend or friend of the family injured?,object
+War Witness B_14, -Was any friend or friend of the family killed?,object
+War Witness B_15, -Did/Do you have fear of bombing during the conflict?,object
+War Witness B_16, -Do you know any displaced persons who is your family or your friend?,object
+Cover Air Raid,"In the past 3 months, how often have you had to take cover due to air raid sirens or threats of e...",object
+Likelihood Injured,"Rate the likelihood that you feel that you, or people close to you, might be physically injured i...",object
+War Experience_1,Please check all that applies-Someone shot bullets at you or your home,object
+War Experience_2,Please check all that applies-Explosions hit at or near you or your home,object
+War Experience_3,Please check all that applies-You were attacked by someone,object
+War Experience_4,Please check all that applies-You were locked up as a prisoner,object
+War Experience_5,Please check all that applies-You received a serious physical injury in a battle or attack,object
+War Experience_6,Please check all that applies-You were forced to carry heavy loads or do other forced labor,object
+War Experience_7,Please check all that applies-You witnessed an attack or battle,object
+War Experience_8,Please check all that applies-You witnessed beatings of other people,object
+War Experience_9,Please check all that applies-You witnessed a killing,object
+War Experience_10,Please check all that applies-You witnessed rape or sexual abuse,object
+War Experience_11,Please check all that applies-Multiple family members were injured or murdered,object
+War Experience_12,Please check all that applies-Multiple friends were injured or murdered,object
+War Experience_13,Please check all that applies-Your personal property was destroyed,object
+War Experience_14,Please check all that applies-I prefer not to answer,object
+Compete_Choice,Would you like to compete for 1 Hryvna per correct answer if you have more correct answers than y...,object
+Costless Sharing EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Costless Sharing ER,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Costless Envy EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Costless Envy ER,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Sharing EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Sharing ER,"If you choose the option on the left, you will receive 15 Hryvnia and another random Ukrainian wi...",object
+Envy EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
+Envy ER,"If you choose the option on the left, you will receive 15 Hryvnia and another random Ukrainian wi...",object
+Answer Child,Would you like to answer questions about your child/children? ,object
+LocationLatitude,LocationLatitude,object
+LocationLongitude,LocationLongitude,object
+numericDate,,datetime64[ns]
