@@ -12,36 +12,36 @@ Q_RelevantIDDuplicate,Q_RelevantIDDuplicate,object
 Q_RelevantIDDuplicateScore,Q_RelevantIDDuplicateScore,object
 Q_RelevantIDFraudScore,Q_RelevantIDFraudScore,object
 manuallyIDduplicateIP,manuallyIDduplicateIP,object
-"Survey, Treatment, Prosocial","Survey, Treatment, Prosocial",object
+"Surveys, Control, Prosocial","Survey Treatment Grouping Order: Surveys, Control, Prosocial                Users are placed randomly into one of six groups. This group first takes the Survey, then takes the Control version of our Stroop tests, then plays the Dictator Games",object
+"Survey, Treatment, Prosocial","Survey Treatment Grouping Order: Survey, Treatment, Prosocial                This group first takes the Survey, then takes the Treatment version of our Stroop tests, then plays the Dictator Games",object
+"Treatment, Prosocial, Surveys","Survey Treatment Grouping Order: Treatment, Prosocial, Surveys                This group first takes the Treatment version of our Stroop tests, then plays the Dictator Games, then finally takes the Survey",object
+"Control, Prosocial, Surveys","Survey Treatment Grouping Order: Control, Prosocial, Surveys                This group first takes the Control version of our Stroop tests, then plays the Dictator Games, then finally takes the Survey",object
+"Prosocial, Treatment, Surveys","Survey Treatment Grouping Order: Prosocial, Treatment, Surveys                This group first plays the Dictator Games, takes the Treatment version of our Stroop tests, then finally takes the Survey",object
+"Prosocial, Control, Surveys","Survey Treatment Grouping Order: Prosocial, Control, Surveys                This group first plays the Dictator Games, takes the Control version of our Stroop tests, then finally takes the Survey",object
 Q_TotalDuration,Q_TotalDuration,object
-StroopPractice1_Time,elapsed3,object
-StroopPractice1_Score,Score3,object
-StroopPractice2_Time,elapsed4,object
-StroopPractice2_Score,Score4,object
-StroopBaseline_Time,elapsed5,object
-StroopBaseline_Score,Score5,object
-StroopEmotional_Time,elapsed,object
-StroopEmotional_Score,Score,object
-StroopEmotionalCompetitive_Time,elapsed2,object
-StroopEmotionalCompetitive_Score,Score2,object
-StroopEmotionalChoice_Time,elapsed6,object
-StroopEmotionalChoice_Score,Score6,object
-"Surveys, Control, Prosocial","Surveys, Control, Prosocial",object
-StroopControl_Time,elapsed7,object
-StroopControl_Score,Score7,object
-StroopControlCompetitive_Time,elapsed8,object
-StroopControlCompetitive_Score,Score8,object
-StroopControlChoice_Time,elapsed9,object
-StroopControlChoice_Score,Score9,object
-"Treatment, Prosocial, Surveys","Treatment, Prosocial, Surveys",object
-"Control, Prosocial, Surveys","Control, Prosocial, Surveys",object
-"Prosocial, Treatment, Surveys","Prosocial, Treatment, Surveys",object
-"Prosocial, Control, Surveys","Prosocial, Control, Surveys",object
+StroopPractice1_Time,Time elapsed for the First Practice Stroop trial. Users use the first two trials to practice the test and are told this is not paid,object
+StroopPractice1_Score,Score for the First Practice Stroop trial,object
+StroopPractice2_Time,Time elapsed for the Second Practice Stroop trial,object
+StroopPractice2_Score,Score for the Second Practice Stroop trial,object
+StroopBaseline_Time,Time elapsed for the Baseline Stroop trial. Users take a classic paid Stroop test with no emotional words. Users take this trial directly after the two Practice trials. They are told payment starts with this trial.,object
+StroopBaseline_Score,Score for the Baseline Stroop trial,object
+StroopEmotional_Time,Time elapsed for the Emotional Stroop trial with randomised word embeddings. Users in the Emotional Treatment group take an Emotional Stroop test with war related words in the stroop test. Users in the Control group take a Stroop test with the placement of the war related words replaced by words of various shapes. Users take this trial directly after the Baseline trial.,object
+StroopEmotional_Score,Score for the First Emotional Stroop trial,object
+StroopEmotionalCompetitive_Time,Time elapsed for the Competitive Stroop trial. Users are told that they are competing with another Ukrainian user where they will be paid double if they score hire than their opponent where the looser gets nothing. All users continue to play with their Treatment or Control Emotional words placed in the Stroop test.,object
+StroopEmotionalCompetitive_Score,Score for the  Competitive Stroop trial. Users take this trial directly after the Emotional trial,object
+StroopEmotionalChoice_Time,"Time elapsed for the Choice Stroop trial. Users are given a choice to either play the game in a competitive manner and payoff as in the previous Competitive trial, or to play noncompetitively as in the Baseline and Emotional trials",object
+StroopEmotionalChoice_Score,Score for the First Choice Stroop trial,object
+StroopControl_Time,Time elapsed for the First Practice Stroop trial,object
+StroopControl_Score,Score for the First Practice Stroop trial,object
+StroopControlCompetitive_Time,Time elapsed for the First Practice Stroop trial,object
+StroopControlCompetitive_Score,Score for the First Practice Stroop trial,object
+StroopControlChoice_Time,Time elapsed for the First Practice Stroop trial,object
+StroopControlChoice_Score,Score for the First Practice Stroop trial,object
 completed,completed,object
-Anxiety Score,TScoreA,object
-Depression Score,TScoreD,object
-Anxiety Severity,ASeverity,object
-Depression Severity,DSeverity,object
+Anxiety Score,DASS Anxiety Raw Score,object
+Depression Score,DASS Depression Raw Score,object
+Anxiety Severity,DASS Anxiety Severity Categorization,object
+Depression Severity,DASS Depression Severity Categorization,object
 Intro,Hello! We are graduate students from University of San Francisco conducting research into the eco...,object
 Q3051_1_TEXT,Click to write the question text-Browser,object
 Q3051_2_TEXT,Click to write the question text-Version,object
@@ -293,4 +293,4 @@ Envy ER,"If you choose the option on the left, you will receive 15 Hryvnia and 
 Answer Child,Would you like to answer questions about your child/children? ,object
 LocationLatitude,LocationLatitude,object
 LocationLongitude,LocationLongitude,object
-numericDate,,datetime64[ns]
+numericDate,Date the survey was finished,datetime64[ns]
