@@ -212,10 +212,10 @@ COHEN_7,"In the following questions I will ask to indicate how often you felt or
 COHEN_8,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt that you were on top of things?",object
 COHEN_9,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you been angered because of things that were outside of your control?",object
 COHEN_10,"In the following questions I will ask to indicate how often you felt or thought a certain way in...-In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",object
-Family Satisfied,"Overall, how satisfied you are with your family situation? On a scale from 1 being the least sati...",object
-Employment Satisfied,"Overall, how satisfied you are with your current employment situation? On a scale from 1 being th...",object
+Family Satisfied,"Overall, how satisfied you are with your family situation? On a scale from 1 being the least satisfied to 5 being most satisfied",object
+Employment Satisfied,"Overall, how satisfied you are with your current employment situation? On a scale from 1 being the least satisfied to 5 being most satisfied",object
 Career Desired,"If you could change employment or career path, what kind of job would you like to do?",object
-Life Satisfied,"Overall, how satisfied you are with your life? On a scale from 1 being the least satisfied to 5 b...",object
+Life Satisfied,"Overall, how satisfied you are with your life? On a scale from 1 being the least satisfied to 5 being most satisfied",object
 Life Improve,How much do you agree or disagree with the following statement: “I feel that my life will improve...,object
 Good Qualities,How much do you agree or disagree with the following statement: “I feel that I have a number of g...,object
 DASS21_1,Please read each statement and select how much the statement applied to you over the past week. T...-I found it hard to wind down,object
@@ -240,14 +240,14 @@ DASS21_19,"Please read each statement and select how much the statement applied 
 DASS21_20,Please read each statement and select how much the statement applied to you over the past week. T...-I felt scared without any good reason,object
 DASS21_21,Please read each statement and select how much the statement applied to you over the past week. T...-I felt that life was meaningless,object
 Know Seller,"When you go to the market, how important is it to buy from a seller that you know personally?",object
-Trust People,"Generally speaking, would you say that most people can be trusted, or that you can't be too caref...",object
+Trust People,"Generally speaking, would you say that most people can be trusted, or that you can't be too careful in dealing with people? 1=Extremely Careful, 5=Complete Trust",object
 Trust Family,"How much do you trust your family? 1= completely, 2=somewhat, 3=not very much, 4=not at all",object
 Trust Neighbors,"How much do you trust people in your village/city? 1= completely, 2=somewhat, 3=not very much, 4=...",object
 Trust Other Ethnic,"How much do you trust people of another ethnic group? 1= completely, 2=somewhat, 3=not very much,...",object
 Patient,"Overall, how patient would you describe yourself as? Please tick a box on the scale, where the va...",object
 Paid Wait,Imagine you have won a sum of money. How would you like to be paid?,object
 Paid Wait How Much,How much additional Hryvnia is worth waiting 6 months for instead of taking 500 Hryvnia now?,object
-Risk,How do you see yourself: are you generally a person who is fully prepared to take risks or do you...,object
+Risk,How do you see yourself: are you generally a person who is fully prepared to take risks or do you try to avoid taking risks?,object
 Place War Start,Place of stay when the conflict in February 2022 started:,object
 Place War Start_TEXT,Place of stay when the conflict in February 2022 started:,object
 Leave Home_1, -Did you or your family have to leave home because of the conflict?,object
@@ -265,8 +265,8 @@ War Witness B_13, -Was any friend or friend of the family injured?,object
 War Witness B_14, -Was any friend or friend of the family killed?,object
 War Witness B_15, -Did/Do you have fear of bombing during the conflict?,object
 War Witness B_16, -Do you know any displaced persons who is your family or your friend?,object
-Cover Air Raid,"In the past 3 months, how often have you had to take cover due to air raid sirens or threats of e...",object
-Likelihood Injured,"Rate the likelihood that you feel that you, or people close to you, might be physically injured i...",object
+Cover Air Raid,"In the past 3 months, how often have you had to take cover due to air raid sirens or threats of explosions . . . ",object
+Likelihood Injured,"Rate the likelihood that you feel that you, or people close to you, might be physically injured in the war . . .",object
 War Experience_1,Please check all that applies-Someone shot bullets at you or your home,object
 War Experience_2,Please check all that applies-Explosions hit at or near you or your home,object
 War Experience_3,Please check all that applies-You were attacked by someone,object
@@ -282,14 +282,14 @@ War Experience_12,Please check all that applies-Multiple friends were injured or
 War Experience_13,Please check all that applies-Your personal property was destroyed,object
 War Experience_14,Please check all that applies-I prefer not to answer,object
 Compete_Choice,Would you like to compete for 1 Hryvna per correct answer if you have more correct answers than y...,object
-Costless Sharing EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Costless Sharing ER,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Costless Envy EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Costless Envy ER,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Sharing EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Sharing ER,"If you choose the option on the left, you will receive 15 Hryvnia and another random Ukrainian wi...",object
-Envy EL,"If you choose the option on the left, you will receive 10 Hryvnia and another random Ukrainian wi...",object
-Envy ER,"If you choose the option on the left, you will receive 15 Hryvnia and another random Ukrainian wi...",object
+Costless Sharing EL,"Costless Sharing Game with the egalitarian option on the left. The first number was the amount they kept, the latter number was the amount they gave. In every test there is one egalitarian option and one unequal option",object
+Costless Sharing ER,Costless Sharing Game with the egalitarian option on the right,object
+Costless Envy EL,Costless Envy Game with the egalitarian option on the left,object
+Costless Envy ER,Costless Envy Game with the egalitarian option on the right,object
+Sharing EL,Sharing Game with the egalitarian option on the left,object
+Sharing ER,Sharing Game with the egalitarian option on the right,object
+Envy EL,Envy Game with the egalitarian option on the left,object
+Envy ER,Envy Game with the egalitarian option on the left ,object
 Answer Child,Would you like to answer questions about your child/children? ,object
 LocationLatitude,LocationLatitude,object
 LocationLongitude,LocationLongitude,object
