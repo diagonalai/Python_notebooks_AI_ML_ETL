@@ -1,4 +1,4 @@
-🧠 Python Notebooks for AI, ML & ETL
+# 🧠 Python Notebooks for AI, ML & ETL
 
 A curated collection of Jupyter notebooks for hands‑on exploration of AI API calls, machine learning algorithms, ETL pipelines, and integrations with external APIs and cloud databases.
 
@@ -13,6 +13,7 @@ outlier_selection_mahalanobis.ipynb – Multi Dimensional outlier detection algo
 # For Researchers interested in Collaboration:
 See the Ukraine Behavioral Data USFCA file for Data and Codebooks for the USFCA CEGA Study Cognitive and Social Effects of War https://repository.usfca.edu/thes/1580/
 
+# Repository 
 📁 Repository Structure
 
 This repo is organized mainly as a set of .ipynb notebooks, each illustrating a unique task or technique. Notebooks include but are not limited to:
