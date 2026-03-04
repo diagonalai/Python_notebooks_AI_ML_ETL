@@ -5,7 +5,10 @@ A curated collection of Jupyter notebooks for hands‑on exploration of AI API c
 This repository includes interactive Python notebooks covering a broad range of data‑centric use cases — from fetching and transforming data to training models and making AI calls — all designed to be educational, reusable, and practical.
 
 ## Highlights:
-Google_Gemini_Stock_Analyst_Agent.ipynb – A notebook Flask app which uses API to feed Yahoo Finance data into Google Gemini for a Stock Market Analyst App. . calls Google Gemeni and Yahoo Finance via API  Get a Google Gemini API Key here ant try it out!: https://aistudio.google.com/app/api-keys.
+Google_Gemini_Stock_Analyst_Agent.ipynb – A notebook Flask app which uses API to feed Yahoo Finance data into Google Gemini for a Stock Market Analyst App. Calls Google Gemeni and Yahoo Finance via API  Get a Google Gemini API Key here ant try it out!: https://aistudio.google.com/app/api-keys.
+
+outlier_selection_mahalanobis.ipynb – Multi Dimensional outlier detection algorithm using Mahalanobis distance method.
+
 
 ## For Researchers interested in Collaboration:
 See the Ukraine Behavioral Data USFCA file for Data and Codebooks for the USFCA CEGA Study Cognitive and Social Effects of War https://repository.usfca.edu/thes/1580/
@@ -38,7 +41,7 @@ Google_Gemini_API_Call.ipynb & Google_Gemini_Stock_Analyst_Agent.ipynb – Integ
 
 Groq_AI_Call.ipynb – Making AI calls to Groq API.
 
-My_AI.ipynb & GAME_AI.ipynb – Custom AI workflows or experiments.
+My_AI.ipynb & GAME_AI.ipynb – AI testing.
 
 📊 Machine Learning & Analytics
 
